@@ -7,13 +7,12 @@ import { initializeApp } from "firebase/app";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyApijm9WyUZ1AHJ8fpH37a_G242MNfMZxw",
-  authDomain: "chatsi-49fe9.firebaseapp.com",
-  databaseURL: "https://chatsi-49fe9-default-rtdb.firebaseio.com",
-  projectId: "chatsi-49fe9",
-  storageBucket: "chatsi-49fe9.appspot.com",
-  messagingSenderId: "94273278250",
-  appId: "1:94273278250:web:a4ac797465a88a4d4f8e53"
+  apiKey: "AIzaSyCRQTa834BuhMXmwbi_p_zdsnhH9d0ahYA",
+  authDomain: "chatsi1.firebaseapp.com",
+  projectId: "chatsi1",
+  storageBucket: "chatsi1.appspot.com",
+  messagingSenderId: "358246472562",
+  appId: "1:358246472562:web:b01b06b677afa2e1695beb"
 };
 
 // Initialize Firebase
